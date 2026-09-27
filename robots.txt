@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://castellosoft.com.br/sitemap.xml
